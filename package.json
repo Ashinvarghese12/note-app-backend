@@ -1,0 +1,14 @@
+{
+    "name": "backend",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^7.x.x",
+      "cors": "^2.8.5",
+      "dotenv": "^16.x"
+    }
+  }
+  
